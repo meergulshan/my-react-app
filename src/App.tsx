@@ -1,12 +1,12 @@
-import Fooditem from "./components/FoodItems/FoodItem";
-import Navbar from "./components/navbar/Navbar";
 
-function App() {
-  return (
+import Fooditem from "./components/FoodItems/FoodItem";
+import Navbar from "./components/Navbar/Navbar";
+function App (){
+  return(
     <div>
-      <Navbar />
-      <Fooditem />
+      <Navbar/>
+      <Fooditem/>
     </div>
-  );
+  )
 }
 export default App;

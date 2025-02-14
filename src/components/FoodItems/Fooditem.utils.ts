@@ -38,8 +38,9 @@ export const FoodItems = [
         name: "Delicious Zinger Burger",
         price: "$13",
         image: "/MyApp-Assets/pngwing.com.png",
-      }
+      },
+    
   ];
 
 
-  export const RandomFoodItems=[]
+  export const RandomFoodItem=[]
