@@ -21,7 +21,7 @@ const AddItem =()=>{
         <div>
             <div className="Btn-Add">
             <button className="random-food-button" onClick={PickRandomFood}>
-          Pick a Random Food Item
+          Pick @ Random Food Item
         </button>
         <button id="Reset-Btn" className="random-food-button" onClick={() => setRandomFoodItems([])}>
     Reset 
