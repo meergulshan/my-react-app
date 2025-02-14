@@ -1,0 +1,27 @@
+.Btn-Add {
+    display: flex;
+    justify-content: flex-end; 
+    margin-bottom: 20px; 
+    margin-right: 20px;
+  }
+  
+  .random-food-button {
+    background-color: #d6b224;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    
+  }
+  
+  .random-food-button:hover {
+    background-color: #8da58f;
+  }
+  .Btn-Add button{
+    margin: 10px;
+  }
+  #Reset-Btn{
+    background-color: brown;
+  }

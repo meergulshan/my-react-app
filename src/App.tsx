@@ -1,12 +1,9 @@
 
-import Fooditem from "./components/FoodItems/FoodItem";
-import Navbar from "./components/Navbar";
+import HomePage from "./pages/HomePage.jsx";
 function App (){
   return(
-    <div>
-      <Navbar/>
-      <Fooditem/>
-    </div>
+      <HomePage/>
+    
   )
 }
 export default App ;
